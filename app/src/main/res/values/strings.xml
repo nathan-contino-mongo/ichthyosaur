@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ichthysaur Password Manager</string>
+    <string name="action_settings">Logout</string>
+</resources>
